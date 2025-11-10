@@ -1,0 +1,120 @@
+{
+  "projects": [
+    {
+      "slug": "studyap",
+      "name": "StudyAP",
+      "tagline": "AI-powered AP and standardized test prep platform for 1K+ students",
+      "stack": ["React", "Next.js", "TypeScript", "Supabase", "Vercel"],
+      "year": "2023–Present",
+      "role": "Co-Founder & CEO/CTO",
+      "description": "Built an AI-driven study platform generating practice questions, adaptive resources, and analytics for AP and SAT students. Led technical and product development while scaling to over a thousand users through community partnerships and data-driven iteration.",
+      "highlights": [
+        "Developed a question-generation engine using OpenAI and custom fine-tuned models",
+        "Integrated progress analytics and topic-level mastery tracking for 10+ subjects",
+        "Designed an intuitive student dashboard and admin panel for content management",
+        "Scaled backend architecture to support 10K+ question interactions per day",
+        "Featured in multiple school and student-led publications for educational innovation"
+      ],
+      "metrics": [
+        "1K+ students reached",
+        "10K+ practice questions",
+        "10+ subjects covered",
+        "Fully bootstrapped platform"
+      ],
+      "awards": [
+        "Top 3 Finalist – Global Youth Entrepreneurship Challenge (DE:CODE), 2024"
+      ]
+    },
+    {
+      "slug": "lightaid",
+      "name": "LightAid",
+      "tagline": "Nonprofit tackling global inequalities through light, education, and care",
+      "stack": ["Python", "FastAPI", "React", "PostgreSQL", "AWS Lambda"],
+      "year": "2023–Present",
+      "role": "Lead & CTO",
+      "description": "Leads technology and operations at LightAid, a 501(c)(3) nonprofit addressing light poverty, period poverty, and educational inequality across developing regions. Built systems for logistics, volunteer coordination, and donation tracking.",
+      "highlights": [
+        "Scaled international network to 750+ volunteers across 10+ countries",
+        "Developed automation tools reducing manual reporting by 70%",
+        "Tracked and deployed 17K+ donations reaching communities in China, Chile, and Mexico",
+        "Built donor and impact analytics dashboards for transparency and reporting"
+      ],
+      "metrics": [
+        "17K+ donations delivered",
+        "10K+ people impacted",
+        "$4K+ fundraised",
+        "750+ global volunteers"
+      ]
+    },
+    {
+      "slug": "frc-robotics",
+      "name": "FRC Team 3256 WarriorBorgs",
+      "tagline": "Software systems for competitive robotics automation and analytics",
+      "stack": ["Java", "Python", "OpenCV", "PhotonVision", "WPILib"],
+      "year": "2021–Present",
+      "role": "Software Lead",
+      "description": "Leads the software subteam of FRC Team 3256, developing autonomous, vision, and control systems for competition robots. Built real-time scouting tools and autonomous routines powering award-winning performance at regional and world events.",
+      "highlights": [
+        "Built path-planning and auto-alignment systems using vision and PID control",
+        "Developed scouting data pipelines for real-time match analytics",
+        "Led a team of 5 software members to deploy modular, fault-tolerant robot code",
+        "Created web-based dashboards for robot diagnostics and data visualization"
+      ],
+      "metrics": [
+        "3× Engineering Inspiration Awards (2022, 2024, 2025)",
+        "Creativity Award (Daly Division @ FIRST Championship, 2025)",
+        "78% autonomous accuracy in testing"
+      ],
+      "awards": [
+        "Creativity Award – Rockwell Automation, World Championship (2025)",
+        "Regional Engineering Inspiration Awards – San Francisco & Ventura (2025, 2024)",
+        "Excellence in Engineering & Innovation in Control Awards (2025)"
+      ]
+    },
+    {
+      "slug": "deca-event-scheduler",
+      "name": "DECA Automation Tools",
+      "tagline": "Event scheduler, tabulator, and matcher for 200+ DECA members",
+      "stack": ["Go", "Python", "Next.js", "TypeScript", "PostgreSQL"],
+      "year": "2023–Present",
+      "role": "Developer & VP of Operations",
+      "description": "Built a suite of automation systems for Valley Christian DECA to streamline chapter operations and competition logistics. Tools include an event scheduler, Python score tabulator, and C++ roommate matcher used across multiple conferences.",
+      "highlights": [
+        "Automated scheduling for 200+ members across 40+ events with zero conflicts",
+        "Reduced manual scheduling time from 20 hours to 2 minutes",
+        "Created tabulator used for VCMC and SCDC competition data",
+        "Built robust matching algorithm to pair members for conferences efficiently"
+      ],
+      "metrics": [
+        "200+ members served",
+        "40+ events managed",
+        "20hrs → 2min scheduling",
+        "Zero scheduling errors"
+      ],
+      "awards": [
+        "1st Place – DECA ICDC VBC Sports (2025)",
+        "2nd Place – Western Region VBC Sports (2024)"
+      ]
+    },
+    {
+      "slug": "portfolio-cli",
+      "name": "Personal Portfolio",
+      "tagline": "Minimal interactive portfolio built with Next.js 15",
+      "stack": ["Next.js 15", "TypeScript", "Tailwind CSS", "Framer Motion"],
+      "year": "2025",
+      "role": "Designer & Developer",
+      "description": "Built a modern, CLI-style portfolio emphasizing performance and accessibility. Features command history, tab autocomplete, and smooth animations while maintaining a lightweight footprint.",
+      "highlights": [
+        "95+ Lighthouse scores across all metrics",
+        "Custom CLI parser and routing logic",
+        "Keyboard-first UX and responsive design",
+        "Hidden Easter eggs and minimal aesthetic"
+      ],
+      "metrics": [
+        "95+ Lighthouse scores",
+        "<100kb bundle size",
+        "12+ interactive commands"
+      ]
+    }
+  ]
+}
